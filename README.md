@@ -1,3 +1,5 @@
+PROJETO II
+
 # Simulador de Sistema de Alarme Industrial
 
 Projeto desenvolvido para a disciplina de **Projeto Integrador I** do curso de Engenharia de Computação. O objetivo é criar um sistema simples de monitoramento de segurança industrial através do desenvolvimento de lógica digital, álgebra booleana, simulação em circuito no Logisim e implementação em Assembly MIPS utilizando o simulador MARS.
